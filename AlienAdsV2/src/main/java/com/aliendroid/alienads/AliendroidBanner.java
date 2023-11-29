@@ -7,6 +7,16 @@ import android.view.Display;
 import android.widget.RelativeLayout;
 
 public class AliendroidBanner {
+
+    public static void SmallCollapsibleAdmobTop(Activity activity, RelativeLayout layAds, String selectAdsBackup, String idBanner, String idBannerBackup, String Hpk1,
+                                                String Hpk2, String Hpk3, String Hpk4, String Hpk5) {
+
+    }
+
+    public static void SmallCollapsibleAdmobBottom(Activity activity, RelativeLayout layAds, String selectAdsBackup, String idBanner, String idBannerBackup, String Hpk1,
+                                                   String Hpk2, String Hpk3, String Hpk4, String Hpk5) {
+
+    }
     public static void SmallBannerAdmob(Activity activity, RelativeLayout layAds, String selectAdsBackup, String idBanner, String idBannerBackup, String Hpk1,
                                         String Hpk2, String Hpk3, String Hpk4, String Hpk5) {
 
