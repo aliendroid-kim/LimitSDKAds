@@ -3,8 +3,12 @@ package com.aliendroid.alienads;
 import android.app.Activity;
 import android.util.Log;
 
-public class AliendroidInitialize {
+import java.util.Map;
 
+public class AliendroidInitialize {
+    public static void SelectAdsAdmobTargeting(Activity activity, String selectAdsBackup, String idInitialize, String type) {
+
+    }
     public static void SelectAdsAdmob(Activity activity, String selectAdsBackup, String idInitialize) {
 
     }

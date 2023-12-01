@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 
 
 public class AliendroidReward {
+    public static boolean unlockreward = false;
     public static void LoadRewardAdmob(Activity activity, String selectBackupAds, String idReward, String idBackupReward) {
     }
 
