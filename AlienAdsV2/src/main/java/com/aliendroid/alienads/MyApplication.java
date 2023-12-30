@@ -4,8 +4,6 @@ import android.app.Application;
 import android.util.Log;
 
 import com.aliendroid.sdkads.config.InitializeAlienAds;
-import com.flurry.android.FlurryAgent;
-import com.flurry.android.FlurryPerformance;
 
 
 public class MyApplication extends Application {
