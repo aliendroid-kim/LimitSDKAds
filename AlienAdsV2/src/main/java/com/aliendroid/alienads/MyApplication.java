@@ -17,15 +17,6 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
-
-        new FlurryAgent.Builder()
-                .withDataSaleOptOut(false)
-                .withCaptureUncaughtExceptions(true)
-                .withIncludeBackgroundSessionsInMetrics(true)
-                .withLogLevel(Log.VERBOSE)
-                .withPerformanceMetrics(FlurryPerformance.ALL)
-                .build(this,"W35KQ7HGRYQGT3Q9NDSH");
-
         sdkads = new InitializeAlienAds(this);
         alienOpenAds = new AlienOpenAds(this);
 

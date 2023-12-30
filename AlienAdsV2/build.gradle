@@ -31,8 +31,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.6.0'
     implementation "androidx.multidex:multidex:2.0.1"
-    implementation 'com.flurry.android:analytics:14.3.0'
-    implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
+
 
 
 }
